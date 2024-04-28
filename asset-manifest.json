@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/react-json-placeholder-apis-host/static/css/main.87d90a47.css",
-    "main.js": "/react-json-placeholder-apis-host/static/js/main.df110de3.js",
+    "main.js": "/react-json-placeholder-apis-host/static/js/main.e4de7cb3.js",
     "static/js/453.4c7dcfea.chunk.js": "/react-json-placeholder-apis-host/static/js/453.4c7dcfea.chunk.js",
     "static/media/creativesyntax.svg": "/react-json-placeholder-apis-host/static/media/creativesyntax.a4f12eb7fc3ce0e383031534cd08626a.svg",
     "index.html": "/react-json-placeholder-apis-host/index.html",
     "main.87d90a47.css.map": "/react-json-placeholder-apis-host/static/css/main.87d90a47.css.map",
-    "main.df110de3.js.map": "/react-json-placeholder-apis-host/static/js/main.df110de3.js.map",
+    "main.e4de7cb3.js.map": "/react-json-placeholder-apis-host/static/js/main.e4de7cb3.js.map",
     "453.4c7dcfea.chunk.js.map": "/react-json-placeholder-apis-host/static/js/453.4c7dcfea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.87d90a47.css",
-    "static/js/main.df110de3.js"
+    "static/js/main.e4de7cb3.js"
   ]
 }
